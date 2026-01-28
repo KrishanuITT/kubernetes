@@ -48,7 +48,7 @@ cd kubernetes
 make
 ```
 
-##### You have a working [Docker environment].
+##### You have a working [Docker environment]. Hello
 
 ```
 git clone https://github.com/kubernetes/kubernetes
